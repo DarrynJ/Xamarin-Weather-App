@@ -12,7 +12,7 @@ namespace TestApplication.Services
     {
         private HttpClient httpClient;
 
-        private const string apiKey = "1b61e53a808177d3eebc20295d86afc6d2f59ec3a7bfcd7bf59c200dc15a9b66";
+        private const string apiKey = "ADD-YOUR-API-KEY-HERE";
         private const string baseApiUrl = "https://api.ambeedata.com/weather";
 
         public WeatherService()
